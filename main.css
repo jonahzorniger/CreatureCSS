@@ -1,0 +1,218 @@
+.wrapper{
+    margin-left: 1125px;
+    margin-top:px
+  }
+  
+  .bemo{
+    width: 300px;
+    height: 340px;
+    border: solid 2px;
+    border-radius: 20px;
+    background-color:#82c4be;
+  }
+  
+  .face{
+    width: 220px;
+    height:150px;
+    border: solid 2px;
+    border-radius: 25px;
+    margin-top:36px;
+    margin-left:36px;
+    margin-right:36px;
+    background-color: #83d496;
+  }
+  
+  .eye{
+    border: solid 2px;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+    background-color: black;
+  }
+  
+  .mouth{
+    height: 20px;
+    width: 40px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: solid 3px black;
+    border-top:0;
+    margin-left: 80px;
+    margin-top:70px;
+   }
+  
+  .glint{
+    height: 5px;
+    width: 13px;
+    background-color: black;
+    border-top-left-radius: 110px;
+    border-top-right-radius: 110px;
+    border: solid 3px white;
+    border-bottom:0;
+    margin-left: 5px;
+    margin-top:5px;
+  }
+  
+  .buttons-main{
+    height: 100px;
+    margin-left:36px;
+    margin-right:36px;
+    margin-top:15px;
+    margin-bottom: 36px;
+  }
+  
+  .columns{
+    width:108px;
+    height:100px;
+    float: left;
+  }
+  
+  .button{
+    width:100%;
+    height:31px;
+  }
+  
+  .large-rec{
+    height:10px;
+    width:60px;
+    background-color: grey;
+    margin-top: 10px;
+    border: solid 2px;
+  }
+  
+  .small-square{
+    height: 8px;
+    width: 5px;
+    background-color: yellow;
+    margin-left: 20px;
+   }
+  
+  .small-rec{
+    height: 5px;
+    width:25px;
+    background-color: yellow;
+    margin-left: 10px;
+   }
+  
+  .medium-rec{
+    height:10px;
+    width:16px;
+    background-color: grey;
+    margin-top:5px;
+    float: left;
+    margin-right:10px;
+    border: solid 2px black;
+  }
+  
+  h1{
+    text-align: center;
+    margin-top:190px;
+  }
+  
+  .small-circle{
+    height:10px;
+    width:10px;
+    border-radius:100px;
+    background-color:grey;
+    margin-left:60px;
+    margin-top:10px;
+    border: solid 2px;
+  }
+  
+   .triangle{
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 25px solid cyan;
+    margin-left:30px;
+    float:left;
+  }
+  
+  .medium-circle{
+    height: 15px;
+    width: 15px;
+    border-radius:100px;
+    background-color: green;
+    float: right;
+    margin-top:0px;
+    margin-right:10px;
+    border: solid 2px;
+  }
+  
+  .big-circle{
+    height: 20px;
+    width: 20px;
+    border-radius:100px;
+    background-color: red;
+    margin-left: 60px;
+    margin-top:2px;
+    border: solid 2px;
+  }
+  
+  html, body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background: url(https://wallpaperaccess.com/full/3217146.jpg) fixed center no-repeat;
+    background-size: 100% 100%;
+  }
+  
+  .left-leg{
+    width: 50px;
+    height:150px;
+    background-color:#82c4be ;
+    margin-left:50px;
+    margin-top:30px;
+    border: solid 2px;
+  }
+  
+  .right-leg{
+    width: 50px;
+    height:150px;
+    background-color:#82c4be ;
+    margin-left:-105px;
+    margin-top:-160px;
+    border: solid 2px;
+  }
+  
+  .left-foot{
+    width:100px;
+    height:10px;
+    background-color:#82c4be;
+    border: solid 2px;
+  }
+  
+  .right-foot{
+    width:100px;
+    height:10px;
+    background-color:#82c4be;
+    margin-left:-155px;
+    border: solid 2px;
+  }
+  
+  .left-arm{
+    width:230px;
+    height:50px;
+    background-color: #82c4be;
+    margin-top: -250px;
+    margin-left:895px;
+    border-bottom-left-radius:100px;
+    border: solid 2px;
+  }
+  
+  .right-arm{
+    width:250px;
+    height:50px;
+    background-color: #82c4be;
+    margin-top: 10px;
+    margin-left:1200px;
+    border-bottom-left-radius:100px;
+    border: solid 2px;
+  }
+  
